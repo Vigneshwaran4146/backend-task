@@ -26,7 +26,7 @@ let products = [
     "name": "ice cream cake",
     "price": "899",
     "description": "To construct your ice cream cake, you'll be alternating layers of ice cream with cake, or with crumbled cookies, or even with dessert sauces like chocolate or butterscotch. When making an ice cream cake, it's essential to work quickly, so that the ice cream doesn't melt",
-    "image": "/uploads/1716553437126-20784-ice-cream-cake-ddmfs-step-4x3-49b3ca7af5074beeb60c02bd6f569624.png"
+    "image": "/uploads/1716553718247-images (1).jpg"
 },
 {
     "id": "1716553470882",
